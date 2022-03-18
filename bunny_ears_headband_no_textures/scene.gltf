@@ -1,0 +1,417 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1987,
+      "max": [
+        4.7898759841918945,
+        0.9166675806045532,
+        49.57847595214844
+      ],
+      "min": [
+        -4.7898759841918945,
+        -0.9166667461395264,
+        -0.9166667461395264
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 23844,
+      "componentType": 5126,
+      "count": 1987,
+      "max": [
+        0.9999992847442627,
+        0.9999998807907104,
+        1.0
+      ],
+      "min": [
+        -0.9999992847442627,
+        -0.9999998807907104,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1987,
+      "max": [
+        0.8750001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.125,
+        -4.6566133171666024e-09
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9408,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47688,
+      "componentType": 5126,
+      "count": 7309,
+      "max": [
+        0.9935951828956604,
+        0.9935952425003052,
+        1.0000003576278687
+      ],
+      "min": [
+        -0.9935951828956604,
+        -0.9935951828956604,
+        -1.0000001192092896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 135396,
+      "componentType": 5126,
+      "count": 7309,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15896,
+      "componentType": 5126,
+      "count": 7309,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 37632,
+      "componentType": 5125,
+      "count": 38400,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 223104,
+      "componentType": 5126,
+      "count": 7309,
+      "max": [
+        0.9935951828956604,
+        0.9935952425003052,
+        1.0000003576278687
+      ],
+      "min": [
+        -0.9935951828956604,
+        -0.9935951828956604,
+        -1.0000001192092896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 310812,
+      "componentType": 5126,
+      "count": 7309,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74368,
+      "componentType": 5126,
+      "count": 7309,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 191232,
+      "componentType": 5125,
+      "count": 38400,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Alysen (https://sketchfab.com/alysen)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bunny-ears-headband-no-textures-65766487cd2045319e816fb5317d7808",
+      "title": "Bunny Ears Headband No Textures"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 344832,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132840,
+      "byteOffset": 344832,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 398520,
+      "byteOffset": 477672,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 876192,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.001__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -1.0,
+        -1.60812262295773e-16,
+        2.8327693431939985e-16,
+        0.0,
+        2.832769343193999e-16,
+        6.123232939436859e-17,
+        1.0,
+        0.0,
+        -1.6081226229577292e-16,
+        1.0,
+        -6.123232939436859e-17,
+        0.0,
+        -0.0002301454806001857,
+        -0.14759674668312073,
+        1.7468058785779847e-06,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "b9ad0c4fa56940c293ad8468e8d92de4.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        105.65102386474567,
+        9.236306195454528e-06,
+        -0.0,
+        -0.0,
+        1.4450855437377184e-12,
+        -1.6529851244159092e-05,
+        -101.45950317382676,
+        -0.0,
+        2.1360158354363964e-06,
+        -24.43317222595173,
+        3.980669029600258e-06,
+        -0.0,
+        0.0,
+        1409.4547119140625,
+        0.0,
+        1.0
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 0,
+      "name": "Cube__0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        107.07919336992857,
+        -30.697899173646015,
+        -1.5926079177803958,
+        0.0,
+        121.45623212269983,
+        423.73638693024634,
+        -1.4953565869325258,
+        0.0,
+        1.199353011875963,
+        -0.05542994303654085,
+        81.7070758139684,
+        0.0,
+        291.39300537109375,
+        1803.8123779296875,
+        1.97160005569458,
+        1.0
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder__0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        107.07655779208287,
+        30.70710345203648,
+        -1.5923678577313085,
+        0.0,
+        -121.48805503021491,
+        423.72605103258167,
+        1.8067049493973932,
+        0.0,
+        1.2150884340322488,
+        -3.44954114662002e-06,
+        81.70686212487131,
+        0.0,
+        -291.39300537109375,
+        1803.8123779296875,
+        1.97160005569458,
+        1.0
+      ],
+      "name": "Cylinder.001"
+    },
+    {
+      "mesh": 2,
+      "name": "Cylinder.001__0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

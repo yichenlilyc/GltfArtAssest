@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rib hat-gray
+* source:	https://sketchfab.com/3d-models/rib-hat-gray-bb6fd213034b419e9bd65d914b098a5a
+* author:	yoaka (https://sketchfab.com/yoaka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rib hat-gray" (https://sketchfab.com/3d-models/rib-hat-gray-bb6fd213034b419e9bd65d914b098a5a) by yoaka (https://sketchfab.com/yoaka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

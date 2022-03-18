@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gorilla Tag Tophat
+* source:	https://sketchfab.com/3d-models/gorilla-tag-tophat-8042498e80fc4a9282c44c4da4c30141
+* author:	Pancake_Prime (https://sketchfab.com/Pancake_Prime)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gorilla Tag Tophat" (https://sketchfab.com/3d-models/gorilla-tag-tophat-8042498e80fc4a9282c44c4da4c30141) by Pancake_Prime (https://sketchfab.com/Pancake_Prime) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
